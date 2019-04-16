@@ -2,8 +2,8 @@
 
 ## General Portal Links:
 
-* **Mixed Reality Docs** - https://docs.microsoft.com/en-us/windows/mixed-reality/
 * **Developer.microsoft.com Portal** - https://developer.microsoft.com/en-us/mixed-reality
+* **Mixed Reality Docs** - https://docs.microsoft.com/en-us/windows/mixed-reality/
 * **Azure Spatial Anchors** - https://docs.microsoft.com/en-us/azure/spatial-anchors/ 
 * **MRTK Documentation Portal** - https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html 
 
