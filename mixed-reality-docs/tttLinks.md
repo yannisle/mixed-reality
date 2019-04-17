@@ -1,4 +1,4 @@
-# Train the trainer
+# Microsoft Internal: Train the trainer
 
 ## General Portal Links:
 
@@ -12,7 +12,7 @@ Yes - we have 4 portals for developer guidance :)
 
 ## General Useful Links:
 
-**Developing for MR 101 Deck** - https://microsoft.sharepoint.com/teams/Mixedreality/Shared%20Documents/Developing%20for%20Mixed%20Reality%20Presentation.pptx?web=1 
+**Developing for MR 101 Deck** (Internal only) - https://microsoft.sharepoint.com/teams/Mixedreality/Shared%20Documents/Developing%20for%20Mixed%20Reality%20Presentation.pptx?web=1 
 
 **Dev Docs update:**  https://docs.microsoft.com/en-us/windows/mixed-reality/
 * Overall TOC restructuring on Dev Docs to align with industry standards.  Granular TOC restructing will continue.
