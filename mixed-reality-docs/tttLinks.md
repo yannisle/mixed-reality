@@ -40,6 +40,7 @@ CTA = READ and prep for in-person labs at TTT on 4/29
 * Register for insider (if not already), dl latest insider SDK, Install Unity 2018.3.x, Install Unity 2019.1.x, VS 2017 or 2019, Import MRTK (included in base module below).  Note: 19H1 SDK will be available for public download soon.
 * MRTK Docs portal - https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html 
 * MR learning base module - https://review.docs.microsoft.com/en-us/windows/mixed-reality/mrlearning-base?branch=MRLearning (ETA to publish publicly is week of 4/22)
+* HoloLens 2 Emulator download - https://go.microsoft.com/fwlink/?linkid=2087187 (docs coming soon)
 
 CTA = Read up, and prep your laptop for in-person TTT on 4/29
 
