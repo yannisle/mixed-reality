@@ -69,8 +69,9 @@ CTA = Read up, and prep your laptop for in-person TTT on 4/29
 
 <br>
 
-# Design guidance (MS-only until 4/29)
-* Interaction fundamentals - https://review.docs.microsoft.com/en-us/windows/mixed-reality/interaction-fundamentals?branch=caseym
-* Hands and tools - Near: https://review.docs.microsoft.com/en-us/windows/mixed-reality/direct-manipulation?branch=caseym, Far: https://review.docs.microsoft.com/en-us/windows/mixed-reality/point-and-commit?branch=caseym
-* Gaze and commit - https://review.docs.microsoft.com/en-us/windows/mixed-reality/gaze-and-commit?branch=caseym
-* Eye tracking - https://review.docs.microsoft.com/en-us/windows/mixed-reality/eye-tracking?branch=caseym
+# Design guidance
+* Interaction fundamentals - https://docs.microsoft.com/en-us/windows/mixed-reality/interaction-fundamentals
+* Hands and motion controllers - https://docs.microsoft.com/en-us/windows/mixed-reality/hands-and-tools, Near: https://docs.microsoft.com/en-us/windows/mixed-reality/direct-manipulation, Far: https://docs.microsoft.com/en-us/windows/mixed-reality/point-and-commit
+* Hands-free - https://docs.microsoft.com/en-us/windows/mixed-reality/hands-free, Gaze and dwell: https://docs.microsoft.com/en-us/windows/mixed-reality/gaze-and-dwell, Gaze and voice: https://docs.microsoft.com/en-us/windows/mixed-reality/voice-design
+* Head gaze and commit (i.e. GGV) - https://docs.microsoft.com/en-us/windows/mixed-reality/gaze-and-commit
+* Eye tracking - https://docs.microsoft.com/en-us/windows/mixed-reality/eye-tracking
