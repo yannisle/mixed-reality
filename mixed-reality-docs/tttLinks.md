@@ -27,20 +27,37 @@ CTA = Re-familiarize with the Dev Docs portal, bearing in mind we are continuous
 <br>
 
 # Porting / Migration
-* Get app ready for HL2 - https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-porting-guide 
-* Case studies coming soon – Galaxy Explorer and Solution Hub from MCS/MRS, and Ford, Lowe’s, and other ISVs from Kevin Collins
-* MRTK link for HTK > MRTK APIs - https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/HTKToMRTKPortingGuide.html 
+* [Getting your app ready for HL2](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-porting-guide)
+* [Recommended Settings for Unity](https://docs.microsoft.com/en-us/windows/mixed-reality/recommended-settings-for-unity)
+* [Understanding Performance for Mixed Reality](https://docs.microsoft.com/en-us/windows/mixed-reality/understanding-performance-for-mixed-reality)
+* [Performance Recommendations for Unity](https://docs.microsoft.com/en-us/windows/mixed-reality/performance-recommendations-for-unity)
+* [HTK to MRTK v2 APIs Conversion Table](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/HTKToMRTKPortingGuide.html)
 
 CTA = READ and prep for in-person labs at TTT on 4/29
 
 <br>
 
 # MRTK + Dev Tools
-* Install the tools – https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools 
-* Register for insider (if not already), dl latest insider SDK, Install Unity 2018.3.x, Install Unity 2019.1.x, VS 2017 or 2019, Import MRTK (included in base module below).  Note: 19H1 SDK will be available for public download soon.
-* MRTK Docs portal - https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html 
-* MR learning base module - https://docs.microsoft.com/en-us/windows/mixed-reality/mrlearning-base
-* HoloLens 2 Emulator download - https://go.microsoft.com/fwlink/?linkid=2087187 (docs coming soon)
+
+1) Register for insider (if not already) latest insider SDK
+2) Install Unity 2018.3.x or Unity 2019.1.x and VS 2017 or 2019
+3) Import MRTK (included in base module below).  
+
+Note: 19H1 SDK will be available for public download soon.
+
+* [Install the tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools)
+* [MRTK Docs portal](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
+* [MR Learning Base Module](https://docs.microsoft.com/en-us/windows/mixed-reality/mrlearning-base-ch1)
+* [HoloLens 2 Emulator download](https://go.microsoft.com/fwlink/?linkid=2087187) (docs coming soon)
+
+CTA = Read up, and prep your laptop for in-person TTT on 4/29
+
+# MRTK v2 Quick Links
+* [MRTK Configuration & Profiles Guide](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/MixedRealityConfigurationGuide.html) 
+* [How to use Articulated Hands with MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/InputSystem/HandTracking.html)
+* [How to use Eye-Tracking with MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/EyeTracking/EyeTracking_Main.html)
+* [MRTK Core UX - Interactable component](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_Interactable.html)
+* [MRTK Core UX - Manipulation Handler component](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_ManipulationHandler.html)
 
 CTA = Read up, and prep your laptop for in-person TTT on 4/29
 
